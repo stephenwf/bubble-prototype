@@ -1,0 +1,17 @@
+{
+  "name": "bubble-prototype",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@fesk/scripts": "^1.0.4"
+  },
+  "scripts": {
+    "start": "fesk-start",
+    "build": "fesk-build",
+    "watch": "fesk-watch"
+  },
+  "dependencies": {
+    "webpack-config": "^7.5.0"
+  }
+}
